@@ -3,4 +3,6 @@ Quickly generate architectural floorplans for universal washrooms that are Ontar
 
 Given the dimensions of a space, the app will generate 3 options that designers can choose from as a starting point to their designs.
 
+[Click Here to Download](https://github.com/sparkbird-wzmh/universal-washrooms/releases/download/1.0/Universal.Washrooms.App.exe)
+
 ![image](https://github.com/sparkbird-wzmh/universal-washrooms/assets/132709762/2f100395-7020-4009-b161-28e151a4b648)
