@@ -1,4 +1,4 @@
-# universal-washrooms
+# Universal Washroom App
 Quickly generate architectural floorplans for universal washrooms that are Ontario Building Code compliant.
 
 Given the dimensions of a space, the app will generate 3 options that designers can choose from as a starting point to their designs.
